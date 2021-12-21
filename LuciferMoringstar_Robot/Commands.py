@@ -115,10 +115,11 @@ async def start(bot, message):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[
-                InlineKeyboardButton("Search Here", switch_inline_query_current_chat='')
+                InlineKeyboardButton("🔎Search Here🔎", switch_inline_query_current_chat=''),
+                InlineKeyboardButton('🎬Channel🎬', url='https://t.me/MovieHubSLC')
                 ],[
-                InlineKeyboardButton("🆘 Help", callback_data="help"),
-                InlineKeyboardButton("About", callback_data="about")
+                InlineKeyboardButton("🆘Help🆘", callback_data="help"),
+                InlineKeyboardButton("💬About💬", callback_data="about")
                 ]]
             )
         )
