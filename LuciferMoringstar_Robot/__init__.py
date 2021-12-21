@@ -31,13 +31,10 @@ HELP = """
 
 ABOUT = """
 **➻ Name :  Movie Hub SL Filter 🎬
-    
 ➻ Creator : [Jason Todd](
 https://t.me/MHSLsupport)
-
 ➻ Language : Python3
-
 ➻ Library : Pyrogram Asyncio 1.13.0**
 
-
+@MovieHubSLC
 """
