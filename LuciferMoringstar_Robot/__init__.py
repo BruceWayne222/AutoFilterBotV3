@@ -11,11 +11,12 @@ from .Channel import (
 )
 
 HELP = """
-Basic Commands
+**<u>Basic Commands</u>**
 
 ➻/start : check am Alive
 
-Bot Owner Only
+**<u>Bot Owner Only</u>**
+
 ➻/broadcast : Replay Any Message or Media
 ➻/stats : user Status
 ➻/ban_user : click ban_user more info
@@ -25,17 +26,18 @@ Bot Owner Only
 ➻/logger : Get Logs
 ➻/delete : Delete File From Database
 
+@MovieHubSLC
 """
 
 ABOUT = """
-➻ Name :  Movie Hub SL Filter 🎬
+**➻ Name :  Movie Hub SL Filter 🎬
     
 ➻ Creator : [Jason Todd](
 https://t.me/MHSLsupport)
 
 ➻ Language : Python3
 
-➻ Library : Pyrogram Asyncio 1.13.0
+➻ Library : Pyrogram Asyncio 1.13.0**
 
 
 """
