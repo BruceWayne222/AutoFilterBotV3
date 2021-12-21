@@ -31,8 +31,7 @@ HELP = """
 
 ABOUT = """
 **➻ Name :  Movie Hub SL Filter 🎬
-➻ Creator : [Jason Todd](
-https://t.me/MHSLsupport)
+➻ Creator : <a href='https://t.me/MHSLsupport'>👨‍💻 Jason Todd 👨‍💻</a>
 ➻ Language : Python3
 ➻ Library : Pyrogram Asyncio 1.13.0**
 
